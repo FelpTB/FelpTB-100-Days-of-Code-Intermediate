@@ -1,0 +1,14 @@
+Classes:
+-Jogadores
+-Bola
+-Placar
+
+Passos:
+1-Criar a tela
+2-Criar e mover um player
+3-repetir o passo2
+4-Criar a bola
+5-Programar a colisão com a parede
+6-Programar a colisão com o jogador
+7-Detectar os pontos
+8-Fazer o placar
